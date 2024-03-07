@@ -71,7 +71,7 @@ export default function Home() {
         </div>
           */}
 
-            {/** Props */}
+            {/** Props: Properties */}
             <Title  
               text={"Blog posts"} 
               subTitle={"Sub blog post"} 
